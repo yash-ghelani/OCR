@@ -1,8 +1,6 @@
-# COM2004/3004 Assignment
+# Developing an Optical Character Recognition system
 
-**Developing an OCR system** 
-
-## 1. Objective
+## Objective
 
 - To build and evaluate an optical character recognition system that can process scanned book pages and turn them into text.
 
